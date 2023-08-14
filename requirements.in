@@ -1,3 +1,10 @@
 unstructured[docx,pptx]
 openai
 langchain
+chromadb
+pdf2image
+ipykernel
+pdfminer
+pdfminer.six
+pypdf
+pandas
